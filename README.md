@@ -14,25 +14,24 @@ Welcome to my dynamic Excel dashboard repository! This dashboard provides a comp
 Download the Dashboard File: Click here to download the Excel file. It includes interactive charts and filters to explore data based on years, region, and segment.
 
 
+# Getting Started
+https://github.com/Afsheenfatymah/Dynamic-Excel-Dashboard.git
+https://1drv.ms/x/c/9b78b84f153ace81/EdahPM4xM2BMghGipthJ76MB5e9vkQYZHdlJD9cQypgH9A?e=CcwNAm
+
+
 # How to Use 🚀
-Download the File:
+Download the File located in the repository.
 
-# Click on the link above to download the Excel file to your local device.
-Open in Excel:
 
-Open the downloaded file in Microsoft Excel.
-Explore the Dashboard:
-
+# Explore the Dashboard:
 Use the filters to customize the data view by years, region, or segment.
 Analyze various visualizations including combo charts, waterfall charts, pie charts, map charts, and bar charts.
 
-# Getting Started
 
-
-
-Open the Dashboard:
-
+# Open the Dashboard:
 Open the Excel file located in the repository to start exploring the dynamic dashboard.
+
+
 # Contribution 🤝 
 Feel free to fork the repository and contribute improvements or enhancements. If you encounter any issues or have suggestions, please open an issue or submit a pull request.
 
